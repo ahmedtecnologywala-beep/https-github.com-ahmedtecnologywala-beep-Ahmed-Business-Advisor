@@ -1,0 +1,7 @@
+{
+  "name": "Ahmed Pakistan Business Advisor",
+  "description": "A personalized AI business advisor helping Pakistanis start their dream business with localized plans, budgets, and market analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
